@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="GSE NO GROUP", Canal 01: TELEMUNDO 
-http://e10.telerium.uno:2052/free10/278/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDIxIDExOjM1OjA2IFBNJmhhc2hfdmFsdWU9Q3d2azNlRlBFb1N0OEJIVmtkZlVVZz09JnZhbGlkbWludXRlcz0yNDA=
+http://e10.telerium.uno:2052/free10/278/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDIxIDExOjQxOjIzIFBNJmhhc2hfdmFsdWU9dTh5OGRzMUFnZi9kb3ByVHlNa2FYUT09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeim-kf8abAGfCiEyjCAHtP5RWbvK51Nzrbg&usqp=CAU" group-title="GSE NO GROUP", Canal 02: LATINA TV
 http://e10.telerium.uno:2052/free10/249/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDIxIDg6MTc6MDkgUE0maGFzaF92YWx1ZT0xSnBLdXlGYk1HWEVJRXRYd2VpUlNRPT0mdmFsaWRtaW51dGVzPTI0MA==
